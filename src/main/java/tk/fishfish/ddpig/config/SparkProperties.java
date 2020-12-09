@@ -17,7 +17,7 @@ import java.util.Map;
  */
 @Data
 @Validated
-@ConfigurationProperties("egova.spark")
+@ConfigurationProperties("spark")
 class SparkProperties {
 
     @NotBlank

@@ -1,4 +1,0 @@
-egova:
-  spark:
-    appName: Spark And Spring
-    master: local[4]

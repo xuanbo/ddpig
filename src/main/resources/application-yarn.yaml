@@ -1,9 +1,0 @@
-server:
-  port: 9090
-
-egova:
-  spark:
-    appName: Spark And Spring
-    master: yarn-cluster
-    props:
-      deploy-mode: client
