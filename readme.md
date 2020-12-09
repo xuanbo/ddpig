@@ -45,3 +45,10 @@
 - POST YOUR_SPARK_SUBMIT_NODE_IP:9090/v1/word-count 进行 word-count 计算
 
     ![word-count](docs/word-count.png)
+
+## GIS
+
+空间大数据方案：
+
+- 空间数据存储在 ES 或者 HBase
+- Spark 读取后利用 GeoSpark 做分析
